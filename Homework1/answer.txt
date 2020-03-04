@@ -1,0 +1,5 @@
+'привет': {file1.txt, file2.txt}
+'пока': {file1.txt, file2.txt}
+'аха': {file1.txt}
+'лол': {file1.txt}
+'я': {file2.txt}
